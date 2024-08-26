@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: hotelreservation
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 12345678
+    ports:
+      - "5432:5432"
+    volumes:
+      - /data:/var/lib/postgresql/data
+  web:
+    build: .
+    volumes:
+      - ./app:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+    environment:
+      DATABASE_URL: "postgresql://admin:123456@postgres:5432/hotelreservation"
+      ES_HOST: "http://127.0.0.1"
+      ES_PORT: 9200
+      REDIS_URL: "rediscache://127.0.0.1:6379/1?client_class=django_redis.client.DefaultClient"
+      DEBUG: "OFF"

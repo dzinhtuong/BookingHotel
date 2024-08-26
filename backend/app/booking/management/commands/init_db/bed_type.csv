@@ -1,0 +1,21 @@
+id,name,capacity
+1,Standard Room,2
+2,Suite,3
+3,Deluxe Room,4
+4,Executive Room,5
+5,Family Room,3
+6,Connecting Rooms,4
+7,Twin Room,3
+8,King Room,1
+9,Queen Room,1
+10,Honeymoon Suite,4
+11,Junior Suite,4
+12,Presidential Suite,5
+13,Studio Room,5
+14,Loft Room,2
+15,Adjoining Rooms,1
+16,Accessible Room,2
+17,Cabana Room,5
+18,Garden View Room,5
+19,Pool View Room,1
+20,Ocean View Room,4

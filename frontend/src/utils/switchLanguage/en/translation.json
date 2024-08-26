@@ -1,0 +1,37 @@
+{   
+    "Đăng ký cho thuê nhà": "List your place",
+    "Đăng nhập": "Sign in",
+    "Đăng ký": "Sign up",
+    "Tạo tài khoản": "Create account",
+    "Xác nhận mật khẩu": "Confirm password",
+    "Bạn đã có tài khoản? Đăng nhập": "Already have an account? Sign in",
+    "Tên đăng nhập không hợp lệ": "Invalid username",
+    "Email không hợp lệ": "Invalid email",
+    "Mật khẩu phải có ít nhất 6 ký tự": "Passwords must be at least 6 characters",
+    "Mật khẩu không khớp": "Passwords do not match",
+
+    "RONG CHƠI BỐN PHƯƠNG, GIÁ VẪN \"YÊU THƯƠNG\"": "SEE THE WORLD FOR LESS",
+    "TÌM KIẾM": "SEARCH",
+    "Nhập điểm đến": "Enter your destination",
+    "Các điểm đến ở Việt Nam": "Destinations in Vietnam",
+    "Các điểm đến quốc tế": "International destinations",
+    "Người lớn": "Adults",
+    "Trẻ em": "Children",
+    "Phòng": "Room",
+    "18 tuổi trở lên": "Ages 18 or above",
+    "0-17 tuổi": "Ages 0-17",
+    "chỗ ở": "accommodations",
+
+    "Quên mật khẩu": "Forgot Password",
+    "Xin vui lòng nhập email của bạn vào ô bên trên. Chúng tôi sẽ gởi cho bạn đường dẫn để xem hướng dẫn cụ thể.": "Please enter your email in the box above. We will send you a link to access further instructions.",
+    "Lấy lại mật khẩu": "Reset password",
+    "Quay lại đăng nhập": "Back to sign in",
+
+    "Để đảm bảo an toàn, xin vui lòng đăng nhập để truy cập vào thông tin": "For security, please sign in to access your information",
+    "Tên đăng nhập": "User name",
+    "Mật khẩu": "Password",
+    "policy": "By signing in, I agree to <1>Terms of Use </1> and <1> Privacy Policy</1> of Booking.",
+
+    "Các điểm đến thu hút nhất Việt Nam": "Top destinations in Vietnam",
+    "Các điểm đến nổi tiếng ngoài Việt Nam": "Popular destinations outside Vietnam"
+}
